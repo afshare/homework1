@@ -1,5 +1,4 @@
-# homework1
-TCL 大作业 成果展示  
+# TCL 大作业 成果展示  
 
 功能一、运动分析  
 ![图1](otherFiles/)  
@@ -17,6 +16,6 @@ TCL 大作业 成果展示
 ![图5](otherFiles/)  
 
 功能六、评论活动  
-![图6](otherFiles/timg.gif)  
+![图6](https://github.com/afshare/homework1/blob/master/otherFiles/timg.gif?raw=true)  
 
 ###### 最后，成员有：[袁紫玲]()、[曹宇峰]()、[陈泽洪]()、[郭毅民]()、[王富华]()
