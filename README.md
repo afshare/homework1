@@ -16,7 +16,7 @@
 
   ![图3](https://github.com/afshare/homework1/blob/master/otherFiles/CountSteps.gif?raw=true)  
 
-* 功能四、运动  
+* 功能四、实时运动  
 
   ![图4](https://github.com/afshare/homework1/blob/master/otherFiles/SportWalk.gif?raw=true)  
 
@@ -30,7 +30,23 @@
 
 * 功能七、创建群组  
 
-  ![图5](https://github.com/afshare/homework1/blob/master/otherFiles/CreatGroup.gif?raw=true)  
+  ![图7](https://github.com/afshare/homework1/blob/master/otherFiles/CreatGroup.gif?raw=true)  
+
+* 功能八 、活动报名  
+
+  ![图8](https://github.com/afshare/homework1/blob/master/otherFiles/JoinInActive.gif?raw=true)  
+
+* 功能九、创建活动  
+
+  ![图9](https://github.com/afshare/homework1/blob/master/otherFiles/CreateActivity.gif?raw=true)  
+
+* 功能十、运动历史纪录  
+
+  ![图10](https://github.com/afshare/homework1/blob/master/otherFiles/SportHistory.gif?raw=true)  
+
+* 功能十一、运动数据分析表  
+
+  ![图11](https://github.com/afshare/homework1/blob/master/otherFiles/SportHistoryTab.gif?raw=true)  
 
 #### 任务分类展示  
 * [UX]()  
