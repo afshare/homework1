@@ -5,25 +5,32 @@
 #### 功能展示  
 
 * 功能一、登陆  
-![图1](https://github.com/afshare/homework1/blob/master/otherFiles/SignIn.gif?raw=true)  
+
+ ![图1](https://github.com/afshare/homework1/blob/master/otherFiles/SignIn.gif?raw=true)  
 
 * 功能二、注册  
-![图2](https://github.com/afshare/homework1/blob/master/otherFiles/SignUp.gif?raw=true)   
+
+  ![图2](https://github.com/afshare/homework1/blob/master/otherFiles/SignUp.gif?raw=true)   
 
 * 功能三、计步  
-![图3](https://github.com/afshare/homework1/blob/master/otherFiles/CountSteps.gif?raw=true)  
+
+  ![图3](https://github.com/afshare/homework1/blob/master/otherFiles/CountSteps.gif?raw=true)  
 
 * 功能四、运动  
-![图4](https://github.com/afshare/homework1/blob/master/otherFiles/SportWalk.gif?raw=true)  
+
+  ![图4](https://github.com/afshare/homework1/blob/master/otherFiles/SportWalk.gif?raw=true)  
 
 * 功能五、聊天  
-![图5](https://github.com/afshare/homework1/blob/master/otherFiles/Chat.gif?raw=true)  
+
+  ![图5](https://github.com/afshare/homework1/blob/master/otherFiles/Chat.gif?raw=true)  
 
 * 功能六、添加朋友  
-![图6](https://github.com/afshare/homework1/blob/master/otherFiles/AddLinkma.gif?raw=true)  
+
+  ![图6](https://github.com/afshare/homework1/blob/master/otherFiles/AddLinkma.gif?raw=true)  
 
 * 功能七、创建群组  
-![图5](https://github.com/afshare/homework1/blob/master/otherFiles/CreatGroup.gif?raw=true)  
+
+  ![图5](https://github.com/afshare/homework1/blob/master/otherFiles/CreatGroup.gif?raw=true)  
 
 #### 任务分类展示  
 * [UX]()  
