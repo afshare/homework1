@@ -23,4 +23,6 @@
 
 7. __Json\_Model模块：__ 方便接口层调用，隔离Model模块以及运用到Model模块的操作。  
 
-[服务器的搭建以及相关配置可在这里查看]()  
+[SpringMVC请参考](https://my.oschina.net/gaussik/blog/385697?p=2&temp=1487223969103#blog-comments-list)  
+
+[服务器环境的搭建以及相关配置可在这里查看](http://www.jianshu.com/p/744ef1595c43)  

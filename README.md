@@ -4,23 +4,26 @@
 # TCL 大作业 成果展示  
 #### 功能展示  
 
-* 功能一、运动分析  
-![图1](otherFiles/)  
+* 功能一、登陆  
+![图1](https://github.com/afshare/homework1/blob/master/otherFiles/SignIn.gif?raw=true)  
 
-* 功能二、记录  
-![图2](otherFiles/)   
+* 功能二、注册  
+![图2](https://github.com/afshare/homework1/blob/master/otherFiles/SignUp.gif?raw=true)   
 
-* 功能三、运动圈  
-![图3](otherFiles/)  
+* 功能三、计步  
+![图3](https://github.com/afshare/homework1/blob/master/otherFiles/CountSteps.gif?raw=true)  
 
-* 功能四、联系人  
-![图4](otherFiles/)  
+* 功能四、运动  
+![图4](https://github.com/afshare/homework1/blob/master/otherFiles/SportWalk.gif?raw=true)  
 
 * 功能五、聊天  
-![图5](otherFiles/)  
+![图5](https://github.com/afshare/homework1/blob/master/otherFiles/Chat.gif?raw=true)  
 
-* 功能六、评论活动  
-![图6](https://github.com/afshare/homework1/blob/master/otherFiles/timg.gif?raw=true)  
+* 功能六、添加朋友  
+![图6](https://github.com/afshare/homework1/blob/master/otherFiles/AddLinkma.gif?raw=true)  
+
+* 功能七、创建群组  
+![图5](https://github.com/afshare/homework1/blob/master/otherFiles/CreatGroup.gif?raw=true)  
 
 #### 任务分类展示  
 * [UX]()  
