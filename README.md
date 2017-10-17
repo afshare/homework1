@@ -6,7 +6,7 @@
 
 * 功能一、登陆  
 
- ![图1](https://github.com/afshare/homework1/blob/master/otherFiles/SignIn.gif?raw=true)  
+  ![图1](https://github.com/afshare/homework1/blob/master/otherFiles/SignIn.gif?raw=true)  
 
 * 功能二、注册  
 
