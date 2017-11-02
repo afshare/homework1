@@ -51,6 +51,6 @@
 #### 任务分类展示  
 * [UX]()  
 * [服务器](Server/README.md)  
-* [App](github.com/517520/Sports/commits/master)  
+* [App](https://github.com/517520/Sports)  
 
 ###### 最后，介绍一下任务分配：[袁紫玲]()负责[UX]()，[曹宇峰]()、[郭毅民]()负责[App]()，[陈泽洪]()、[王富华]()负责[服务器]()  
